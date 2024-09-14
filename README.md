@@ -3,9 +3,23 @@
 ## Overview
 
 This project focuses on building a **3D IR Scanner** using **Arduino Uno** and **Optical Infrared Sensors**. The scanner efficiently acquires precise **3D point clouds** for small objects, generating over **2500 points** per scan. This low-cost, scalable solution integrates hardware and software for 3D scanning and visualization.
-![Experiment setup](https://github.com/user-attachments/assets/a5bda5b0-b4bc-4833-a483-0becb5e878c4)
-![Top view of PointCloud](https://github.com/user-attachments/assets/25e00033-6e1c-44b3-a231-23e1f3022a43)
 
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c5c9a226-0ecc-4ea5-ab6c-1ccd801cba98" alt="Experiment setup" width="300px" height="auto"/>
+      <br>
+      <b>Experiment setup</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/25e00033-6e1c-44b3-a231-23e1f3022a43" alt="PointCloud of the dental imprint" width="300px" height="auto"/>
+      <br>
+      <b>PointCloud of the dental imprint</b>
+    </td>
+  </tr>
+</table>
+</div>
 ## Features
 
 - **High-Precision Scanning**: The scanner collects **2500+ 3D points** per scan, enabling detailed 3D point clouds of small objects.
