@@ -26,20 +26,3 @@ This project focuses on building a **3D IR Scanner** using **Arduino Uno** and *
 3. **Data Collection**: The **Optical Infrared Sensors** collect distance data from multiple angles as the object moves, creating a 3D map of its surface.
 4. **Point Cloud Generation**: The distance data is processed into a **3D point cloud** with over 2500 points, accurately representing the object's shape.
 5. **Data Export**: The collected data can be exported for further 3D processing or visualization, such as in 3D modeling software.
-
-## Getting Started
-
-### Prerequisites
-
-To replicate or use this project, you need:
-
-- **Arduino IDE** installed on your system.
-- Basic knowledge of **Arduino programming** and **electronics**.
-- Familiarity with **stepper motors** and **sensor interfacing**.
-
-### Hardware Setup
-
-1. **Assemble Components**: Connect the **Optical Infrared Sensors** and **Stepper Motors** to the **Arduino Uno** using jumper wires.
-2. **Calibrate the Motors**: Adjust the stepper motor settings to ensure smooth and precise movement.
-3. **Power the Circuit**: Ensure the scanner has a stable power source for both the Arduino and motors.
-
