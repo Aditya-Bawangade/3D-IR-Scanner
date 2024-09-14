@@ -20,6 +20,7 @@ This project focuses on building a **3D IR Scanner** using **Arduino Uno** and *
   </tr>
 </table>
 </div>
+
 ## Features
 
 - **High-Precision Scanning**: The scanner collects **2500+ 3D points** per scan, enabling detailed 3D point clouds of small objects.
